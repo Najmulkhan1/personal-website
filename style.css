@@ -1,0 +1,117 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 50px;
+    font-weight: 400;
+}
+.colorHighlight{
+    color: rgb(170, 24, 109);
+    font-weight: 900;
+}
+.half-witdh{
+    width: 40%;
+    float: left;
+    margin-left: 8%;
+    padding-left: 2%;
+}
+#upEs{
+    padding-top: 8%;
+}
+.half-witdh img{
+    width: 100%;
+}
+.topSction{
+    background-image: url(Images/header-bg.png);
+    padding-bottom: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 55%;
+
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgba(190, 0, 0, 0.767), tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.biograph{
+    background-image: url(Images/biography-bg.png);
+    padding-bottom: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-top: 0px;
+    padding-bottom: 50%;
+}
+.text{
+    text-align: center;
+}
+.column {
+    float: left;
+    padding: 10px;
+    width: 20%;
+    padding: 20px;
+    padding-bottom: 150px;
+}
+.latest-work{
+    background-image: url(Images/latest-work-bg.png);
+    padding-bottom: 100%;
+    background-size: 80%;
+    background-position: right;
+    background-repeat: no-repeat;
+    padding-top: 0px;
+    padding-bottom: 20%;
+}
+
+
+#imgd{
+    padding-left: 200px;
+}
+.footerbg{
+    text-align: center;
+}
+h4{
+    color: rgb(71, 71, 71);
+}
+.alain{
+    padding-top: 1px;
+    text-indent: 10px;
+    line-height: -2;
+}
+.lastRow{
+    background-image: url(Images/footer-bg.png);
+    padding-bottom: 100%;
+    background-size: 100%;
+    background-position: right;
+    background-repeat: no-repeat;
+    padding-top: 500px;
+    padding-bottom: 20%;
+}
+
+.boxContaint{
+    text-align: center;
+    box-sizing: 10px;
+    background-image: linear-gradient(45deg, rgba(190, 0, 0, 0.767), tomato);
+    padding: 10px;
+    margin: 350px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.p1{
+    font-size: 15px;
+}
+.p2{
+    font-size: 25px;
+    line-height: 1;
+    padding-top: 10;
+}
+footer{
+    text-align: center;
+    padding-top: -10%;
+}
